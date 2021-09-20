@@ -1,4 +1,5 @@
-#INTRODUCTION
+# INTRODUCTION
+***
 ***
 Name: Kianne Lance Buned Lee \
 Hometown: Baguio City
